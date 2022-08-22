@@ -22,7 +22,7 @@ In addition to attaining at least 26 points, you must also complete one or more 
 #### Overall requirements
 
 1. Create a GitHub repository and upload your code to it. The file structure of your project should match what you learned in class.
-1. Your GitHub repository should have a `readme.md` file with installation instructions for your application.
+1. Your GitHub repository should have a `readme.md` file with installation instructions for your application as well as links to your planning resources (trello, ERDs, wireframes) and links for your deployed frontend and backend.
 1. Your project should have a coherent theme and narrative.
 1. Your front-end and back-end applications should be deployed to the web and function as they would on a local machine.
 
